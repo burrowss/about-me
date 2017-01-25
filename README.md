@@ -1,3 +1,8 @@
 # about-me
-#Simon Burrows
-1/25/17
+Simon Burrows
+
+Hello, my name is Simon Burrows. I am a first year student at Allegheny College. I am majoring in computer science and minoring in economics. I am originally from Rochester, New York where I attended Brighton High School until graduating in 2016. My family is a tight-knit one. My sister attends school at Goucher College, my mother works as a psychiatrist and dean at the University of Rochester, and my father is self employed as an residential architect. I myself am hoping to go into the field of computer science as a career. Whether it is research, software development, or IT services, I want to be heavily involved in technology.
+
+My fascination with computers first started four years ago when a few of my friends started to move from playing video games on Xbox to playing on their own PCs. I soon joined them and built my first computer. Following this, I began to explore computers and computer science. I learned the basics of computer usage and trouble shooting quickly and wanted to get more involved in computers. Over the summer of 2015, I worked as an intern for an at home IT service and realized that this was something I could do for a career.
+
+Unfortunately, I could not explore the world of computer science while attending high school. Following my realization that I wanted to work in the field of technology, I began to look for universities that offered computer science and other similar programs. When I first toured Allegheny, I fell in love with the school and, to my delight, discovered that there was a computer science program. Ever since applying to this school, I have wanted to learn the intricacies of computers and coding. I am also interested in business and since Allegheny does not have a business program, I hope to minor in economics as an alternative.
